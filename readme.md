@@ -1,4 +1,4 @@
-# Chrome AI Agentic Workspace Extension
+# Circuit — Chrome AI Agentic Workspace Extension
 
 A universal lightweight browser agent that uses built-in Chrome AI to automate research, productivity, and web workflows.  
 **Summarize, organize, and act across all your tabs, emails, docs, and more—powered by agentic "recipes" and Gemini Nano.**
