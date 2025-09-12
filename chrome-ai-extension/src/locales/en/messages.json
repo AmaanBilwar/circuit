@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Circuit",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Circuit - A powerful browser extension for enhanced productivity and workflow automation.",
+    "description": "Extension description"
+  }
+}
