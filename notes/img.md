@@ -1,0 +1,1 @@
+make a image generator using nano banana as well, use perplexity img gen type animation  
